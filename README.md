@@ -1,0 +1,2 @@
+# UILocalizedIndexedCollationDemo
+汉字按首字母排序
